@@ -5,7 +5,7 @@ public class Rectangle extends Shape {
 	private float width;
 	
 	public Rectangle(float length, float width) {
-		this.length = lengt;
+		this.length = length;
 		this.width = width;
 	}
 
